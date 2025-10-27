@@ -1,0 +1,3 @@
+[submodule "RNCourse"]
+	path = RNCourse
+	url = https://github.com/ssrhunter/rncourse.git
