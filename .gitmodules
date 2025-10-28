@@ -1,3 +1,6 @@
 [submodule "RNCourse"]
 	path = RNCourse
 	url = https://github.com/ssrhunter/rncourse.git
+[submodule "RNCourse"]
+	path = RNMiniGame
+	url = https://github.com/ssrhunter/rnminigame.git
